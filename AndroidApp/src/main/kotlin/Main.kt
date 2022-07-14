@@ -1,3 +1,4 @@
-fun main(){
-    println("Hello Kotlin")
+fun main(args: Array<String>) {
+    val name: String = "Sagasu"
+    println(name)
 }
